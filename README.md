@@ -1,1 +1,1 @@
-# Week3-PasswordGeneratro
+# Week3-PasswordGenerator
