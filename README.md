@@ -1,6 +1,7 @@
 # Random Password Generator
 ## Description
 ### Creates a random password with 8-128 characters. Clicking the "Generate Password" button will offer prompts for how many characters and what types of characters should be used.
+### I want to add that I forgot to make this repository and was working on this project on my local machine and then when I reread the instructions I realized my mistake.
 ## Sources
 ### DOMContentLoader
 #### https://developer.mozilla.org/en-US/docs/Web/API/Document/DOMContentLoaded_event
